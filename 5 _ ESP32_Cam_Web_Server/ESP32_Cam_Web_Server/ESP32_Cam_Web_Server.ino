@@ -19,8 +19,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "Home-net-102-03112051551";
-const char* password = "89102828";
+const char* ssid = "Realme C2";
+const char* password = "2k17mte04";
 
 void startCameraServer();
 

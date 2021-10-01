@@ -20,9 +20,9 @@ Stepper my_Stepper(200, D5, D6, D7, D8);
 bool Right = false;
 bool Left = false;
 
-char auth[] = "4X4MBvwjkrPfXfYS6XTigdE0A_Doo5En";         //Enter your Blynk application auth token
-char ssid[] = "Home-net-102-03112051551";                   //Enter your WIFI name
-char pass[] = "89102828";                                 //Enter your WIFI passowrd
+char auth[] = "4X4MBvwjkrPfXfYS6XTigdE0A_Doo5En";          //Enter your Blynk application auth token
+char ssid[] = "Realme C2";                                 //Enter your WIFI name
+char pass[] = "2k17mte04";                                 //Enter your WIFI passowrd
  
  
 void setup() {
